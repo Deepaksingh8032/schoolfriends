@@ -1,0 +1,29 @@
+.navbar  ul li {padding: 0px;
+    margin: 30px;
+    float: left;
+    font-size: 25px;
+    a:hover {
+        background-color: rgb(204, 102, 6);
+    }
+}
+.navbar ul li a {
+    border-radius: 10px;
+    padding: 1px;
+}
+.main1 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background: url("1.jpeg");
+    height: 800px;
+    text-align: center;
+}
+.main1 h1 {
+    color: aqua;
+    
+    
+}
+.main2 {
+    font-size: 25px;
+    color: rgb(42, 54, 23);
+}
